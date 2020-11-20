@@ -1,6 +1,6 @@
 # hello-world
-first repository, it's purpose is fro learning the process
+first repository, it's purpose is for learning the process
 
 Hi I'm **_Stavros!_**
 
->I'm willing to elarn and better myself.
+>I'm willing to learn and better myself.
